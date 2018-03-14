@@ -1,0 +1,63 @@
+/* CSS Formatting */
+
+
+body {
+    background-image: url(BackgroundImage.jpg);
+    background-image: linear-gradient(180deg, black, navy, blue, royalblue, darkturquoise, lightblue, whitesmoke, white);
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+    font-size: 115%;
+}
+p {
+	margin: 0;
+}
+.leftSide {
+    float: left;
+    font-size: 180%;
+    margin: 10px;
+}
+.rightSide {
+    float: right;
+    font-size: 100%;
+}
+.links a:link {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 110%;
+}
+.links a:visited {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 110%;
+}
+.links a:active {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 110%;
+}
+.documentFormat {
+    margin-left: 175px;
+    margin-right: 175px;
+    font-family: Palatino;
+    margin-top: 400px;
+}
+.headerFormat h1 {
+    font-size: 700%;
+    margin: 0;
+    color: black;
+}
+.headerFormat p {
+    font-size: 225%;
+}
+.indent {
+	text-indent: 40px;	
+}
+.extraIndent {
+	padding-left: 80px;
+}
+ul {
+	padding-left: 58px;
+}
