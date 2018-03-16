@@ -59,7 +59,7 @@
 
 <?php
     if ($_SERVER['REQUEST_METHOD'] == 'POST'){
-        $to = "nathan94@mindspring.com";
+        $to = "neeleynn@mail.uc.edu";
         $subject = $_POST['reason'];
         $firstname = $_POST['firstname'];
         $lastname = $_POST['lastname'];
@@ -90,19 +90,19 @@
 <br>
 <br>
     <p><a href="https://uc.academia.edu/NathanNeeley" style="text-decoration: none" target="_blank">
-        <img src=AcademiaLogo.png alt=incorrect style="width: 100px; height: 100px; margin: 0px 50px;">
+        <img src=AcademiaLogo.png alt=incorrect style="width: 85px; height: 85px; margin: 0px 40px;">
     </a>
-    <p><a href="https://www.linkedin.com/in/nathan-neeley-35a613114/" style="text-decoration: none" target="_blank">
-        <img src=LinkedinLogo.png alt=incorrect style="width: 100px; height: 100px; margin: 0px 50px;">
+    <a href="https://www.linkedin.com/in/nathan-neeley-35a613114/" style="text-decoration: none" target="_blank">
+        <img src=LinkedinLogo.png alt=incorrect style="width: 85px; height: 85px; margin: 0px 40px;">
     </a>
     <a href="https://www.facebook.com/nathan.neeley.9" style="text-decoration: none" target="_blank">
-        <img src=FacebookLogo.png alt=incorrect style="width: 100px; height: 100px; margin: 0px 50px;">
+        <img src=FacebookLogo.png alt=incorrect style="width: 85px; height: 85px; margin: 0px 40px;">
     </a>
     <a href="https://twitter.com/nneeley94" style="text-decoration: none" target="_blank">
-        <img src=TwitterLogo.png alt=incorrect style="width: 100px; height: 100px; margin: 0px 50px;">
+        <img src=TwitterLogo.png alt=incorrect style="width: 85px; height: 85px; margin: 0px 40px;">
     </a>
     <a href="https://www.instagram.com/nneele94/" style="text-decoration: none" target="_blank">
-        <img src=InstagramLogo.png alt=incorrect style="width: 100px; height: 100px; margin: 0px 50px">
+        <img src=InstagramLogo.png alt=incorrect style="width: 85px; height: 85px; margin: 0px 40px">
     </a></p>
     </center>
 <br>
