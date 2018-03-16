@@ -84,7 +84,7 @@
 <br>
 <br>
 <br>
-    <center><p><span style="font-size: 115%;"><b>Email:</b></span> nathan94@mindspring.com</p>
+<center><p><span style="font-size: 115%;"><b>Email:</b></span><a href="mailto:nathan94@mindspring.com" style="text-decoration: none"> nathan94@mindspring.com</a></p>
 <br>
 <br>
 <br>
@@ -109,7 +109,7 @@
 <br>
 <br>
 <br>
-    <p>If you wish to contact me with inquiries or request additional research or teaching materials, please email me at nathan94@mindspring.com or fill out the form below, and I will respond as soon as possible.</p>
+<p>If you wish to contact me with inquiries or request additional research or teaching materials, please email <a href="mailto:nathan94mindspring.com" style="text-decoration: none">me</a> or fill out the form below, and I will respond as soon as possible.</p>
 <br>
 <br>
 <br>
