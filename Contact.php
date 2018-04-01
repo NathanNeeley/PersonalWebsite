@@ -59,7 +59,7 @@
 
 <?php
     if ($_SERVER['REQUEST_METHOD'] == 'POST'){
-        $to = "neeleynn@mail.uc.edu";
+        $to = "nathan94@mindspring.com";
         $subject = $_POST['reason'];
         $firstname = $_POST['firstname'];
         $lastname = $_POST['lastname'];
@@ -146,7 +146,8 @@
 <br>
 <br>
 <HR SIZE="5">
-<br>
+<p style="font-size: 75%">Nathan Neeley 2018 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png"/></a></p><br/>
+
     <center><p style="font-size: 125%;">Contact</p>
 <br>
 </div>
