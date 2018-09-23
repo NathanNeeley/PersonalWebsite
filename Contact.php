@@ -145,8 +145,8 @@
 
 <br>
 <br>
-<HR SIZE="5">
-<p style="font-size: 75%">Nathan Neeley 2018 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png"/></a></p><br/>
+<HR SIZE="5" style="margin:0">
+<p style="font-size: 75%; background-color: Gainsboro">Nathan Neeley 2018 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png"/></a></p><br/>
 
     <center><p style="font-size: 125%;">Contact</p>
 <br>
