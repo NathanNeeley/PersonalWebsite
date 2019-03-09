@@ -98,12 +98,6 @@
     <a href="https://www.facebook.com/nathan.neeley.9" style="text-decoration: none" target="_blank">
         <img src=FacebookLogo.png alt=incorrect style="width: 85px; height: 85px; margin: 0px 40px;">
     </a>
-    <a href="https://twitter.com/nneeley94" style="text-decoration: none" target="_blank">
-        <img src=TwitterLogo.png alt=incorrect style="width: 85px; height: 85px; margin: 0px 40px;">
-    </a>
-    <a href="https://www.instagram.com/nneele94/" style="text-decoration: none" target="_blank">
-        <img src=InstagramLogo.png alt=incorrect style="width: 85px; height: 85px; margin: 0px 40px">
-    </a></p>
     </center>
 <br>
 <br>
@@ -146,7 +140,7 @@
 <br>
 <br>
 <HR SIZE="5" style="margin:0">
-<p style="font-size: 75%; background-color: Gainsboro">Nathan Neeley 2018 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png"/></a></p><br/>
+<p style="font-size: 75%; background-color: Gainsboro">Nathan Neeley 2019 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png"/></a></p><br/>
 
     <center><p style="font-size: 125%;">Contact</p>
 <br>
